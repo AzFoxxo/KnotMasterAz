@@ -16,7 +16,7 @@
       </tr>
       <tr>
         <td align="right">Engines and Frameworks</td>
-        <td><img src="https://skillicons.dev/icons?i=unity,dotnet" height="35px"/></td>
+        <td><img src="https://skillicons.dev/icons?i=unity,gamemakerstudio,dotnet" height="35px"/></td>
       </tr>
       <tr>
       <tr>
@@ -26,6 +26,10 @@
       <tr>
         <td align="right">Text Editors and IDEs</td>
         <td><img src="https://skillicons.dev/icons?i=vscode,visualstudio,neovim" height="35px"/></td>
+      </tr>
+      <tr>
+        <td align="right">Creative Apps</td>
+        <td><img src="https://skillicons.dev/icons?i=blender,photoshop,illustrator" height="35px"/></td>
       </tr>
       <tr>
         <td align="right">Other</td>

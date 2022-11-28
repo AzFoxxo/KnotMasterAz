@@ -9,7 +9,7 @@
 
 - 👯 I’m looking to collaborate on **Any C# projects looking for backend developers especially high performance applications**
 
-- 👨‍💻 All of my projects are available at [azfoxxo.github.io/](azfoxxo.github.io/)
+- 👨‍💻 All of my projects are available at [azfoxxo.github.io/](https://azfoxxo.github.io/)
 
 - 📫 How to reach me **knotgamestudio@gmail.com**
 

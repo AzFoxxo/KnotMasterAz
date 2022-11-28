@@ -1,17 +1,19 @@
+<img src="https://pbs.twimg.com/profile_banners/1321089927023611906/1669384846/1500x500">
 
-<h1 align="center">Hi, I'm Az Foxxo</h1>
-<p align="left"> <img src="https://img.shields.io/endpoint?url=https://pronoundb.org/shields/62c4c5a395ed6674fbc90416&color=FF34A7"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=knotmasteraz&label=profile+views&color=FF34A7"/> </p>
+<h1 align="center">Hiya, I'm Az Foxxo</h1>
+<p align="center">Generic blue homosexual furry who writes code during the early hours of the morning uwu</p>
+<p align="left"> <img src="https://img.shields.io/endpoint?url=https://pronoundb.org/shields/62c4c5a395ed6674fbc90416&color=FF34A7"/>&nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=knotmasteraz&label=profile+views&color=FF34A7"/> </p>
 
   
 - 🔭 I’m currently working on **AzzyShell and Heroes**
 
-- 🌱 I’m currently learning **Silk.net, Vulkan and C++**
+- 🌱 I’m currently learning **Silk.net, Vulkan and C++ (and web dev on the side)**
 
-- 👯 I’m looking to collaborate on **Any C# projects looking for backend developers especially high performance applications**
+- 👯 I’m looking to collaborate on **high performance applications in C# or Rust**
 
-- 👨‍💻 All of my projects are available at [azfoxxo.github.io/](https://azfoxxo.github.io/)
+- 👨‍💻 All of my projects are available at [here](https://github.com/azfoxxo) or [azfoxxo.github.io/](https://azfoxxo.github.io/)
 
-- 📫 How to reach me **knotgamestudio@gmail.com**
+- 📫 Email me at **knotgamestudio@gmail.com**
 
 
 <p align="left">

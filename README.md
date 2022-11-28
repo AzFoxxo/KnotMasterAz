@@ -11,7 +11,7 @@
 
 - 👯 I’m looking to collaborate on **high performance applications in C# or Rust**
 
-- 👨‍💻 All of my projects are available at [here](https://github.com/azfoxxo) or [azfoxxo.github.io/](https://azfoxxo.github.io/)
+- 👨‍💻 All of my projects are available [here](https://github.com/azfoxxo) or [azfoxxo.github.io/](https://azfoxxo.github.io/)
 
 - 📫 Email me at **knotgamestudio@gmail.com**
 

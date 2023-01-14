@@ -1,13 +1,13 @@
 <img src="https://pbs.twimg.com/profile_banners/1321089927023611906/1669384846/1500x500">
 
-<h1 align="center">Hiya, I'm Az Foxxo</h1>
+<h1 align="center">Hiya! I'm Az Foxxo</h1>
 <p align="center">Generic blue homosexual furry who writes code during the early hours of the morning uwu</p>
 <p align="left"> <img src="https://img.shields.io/endpoint?url=https://pronoundb.org/shields/62c4c5a395ed6674fbc90416&color=FF34A7"/>&nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=knotmasteraz&label=profile+views&color=FF34A7"/> </p>
 
   
-- 🔭 I’m currently working on **AzzyShell and Heroes**
+- 🔭 I’m currently working on **BlueTail** game engine and **AzzyShell**
 
-- 🌱 I’m currently learning **Silk.net, Vulkan and C++ (and web dev on the side)**
+- 🌱 I’m currently learning **C++ with web development on the side (and soon Vulkan)**
 
 - 👯 I’m looking to collaborate on **high performance applications in C# or Rust**
 

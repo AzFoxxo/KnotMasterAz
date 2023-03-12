@@ -3,11 +3,11 @@
 <p align="left"> <img src="https://img.shields.io/endpoint?url=https://pronoundb.org/shields/62c4c5a395ed6674fbc90416&color=FF34A7"/>&nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=knotmasteraz&label=profile+views&color=FF34A7"/> </p>
 
   
-- 🔭 I’m currently working on **BlueTail** game engine and **AzzyShell**
+- 🔭 I’m currently working on **VRia** (A social VR experience), **BlueTail.Core** (A lightweight 2D game engine in C# and SFML.net) and **Blueprint Platformer* (A puzzle platformer-scripting game where the player must script objects to advance) 
 
 - 🌱 I’m currently learning **C++ with web development on the side (and soon Vulkan)**
 
-- 👯 I’m looking to collaborate on **high performance applications in C# or Rust**
+- 👯 I’m looking to collaborate on *C# codebases and high performance applications*
 
 - 👨‍💻 All of my projects are available [here](https://github.com/azfoxxo) or [azfoxxo.github.io/](https://azfoxxo.github.io/)
 

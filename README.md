@@ -5,11 +5,7 @@
   
 - 🔭 I’m currently working on **VRia** (A social VR experience), **BlueTail.Core** (A lightweight 2D game engine in C# and SFML.net) and **Blueprint Platformer** (A puzzle platformer-scripting game where the player must script objects to advance) 
 
-- 🌱 I’m currently learning **ASP.NET**
-
-- 👯 I’m looking to collaborate on *C# codebases and high performance applications*
-
-- 👨‍💻 All of my projects are available [here](https://github.com/azfoxxo) or [azfoxxo.github.io/](https://azfoxxo.github.io/)
+- 🌱 I’m currently learning ASP.NET
 
 - 📫 Email me at **knotgamestudio@gmail.com**
 

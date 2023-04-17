@@ -1,4 +1,4 @@
-<img src="https://raw.githubusercontent.com/AzFoxxo/azfoxxo.github.io/active/img/Az%20Foxxo.svg?token=GHSAT0AAAAAACBAOUHOLWCJJQH7JGY63JPEZB5SDEQ" alt="Az Foxxo with a knot emoji before overlapping the A of Az"/>
+<img src="Az Foxxo.svg" alt="Az Foxxo with a knot emoji before overlapping the A of Az"/>
 <p align="center">Generic blue homosexual furry who writes code during the early hours of the morning uwu</p>
 <p align="left"> <img src="https://img.shields.io/endpoint?url=https://pronoundb.org/shields/62c4c5a395ed6674fbc90416&color=FF34A7"/>&nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=knotmasteraz&label=profile+views&color=FF34A7"/> </p>
 

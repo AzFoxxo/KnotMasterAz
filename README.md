@@ -8,6 +8,10 @@
 - 🌱 I’m currently learning ASP.NET
 
 - 📫 Email me at **knotgamestudio@gmail.com**
+  
+<hr>
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=azfoxxo)](https://github.com/ryo-ma/github-profile-trophy)
 
 <hr>
 

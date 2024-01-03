@@ -5,8 +5,6 @@
   
 - 🔭 I’m currently working on **Fox Vision**, a lightweight 16 bit virtual machine with two projects, a simple assembler and virtual machine 
 
-- 🌱 I’m currently learning ASP.NET
-
 - 📫 Email me at **knotgamestudio@gmail.com**
   
 <hr>

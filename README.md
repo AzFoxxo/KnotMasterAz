@@ -3,7 +3,7 @@
 <p align="left"> <img src="https://img.shields.io/endpoint?url=https://pronoundb.org/shields/62c4c5a395ed6674fbc90416&color=FF34A7"/>&nbsp;&nbsp;<img src="https://komarev.com/ghpvc/?username=knotmasteraz&label=profile+views&color=FF34A7"/> </p>
 
   
-- 🔭 I’m currently working on **Fox Vision**, a lightweight 17 bit virtual machine with two projects, a simple assembler and virtual machine 
+- 🔭 I’m currently working on **Fox Vision**, a lightweight 16 bit virtual machine with two projects, a simple assembler and virtual machine 
 
 - 🌱 I’m currently learning ASP.NET
 

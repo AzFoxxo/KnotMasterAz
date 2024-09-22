@@ -5,7 +5,7 @@
   
 - 🔭 I’m currently working on **Fox Vision**, a lightweight 16 bit virtual machine with two projects, a simple assembler and virtual machine 
 
-- 📫 Email me at **knotgamestudio@gmail.com**
+- 📫 Email me at **az@azfoxxo.com**
   
 <hr>
 
